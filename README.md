@@ -10,3 +10,6 @@ presenting at least one visualization that goes beyond what is presented in the 
 background in signal processing. 
 
 [ Yin, D., Gontijo Lopes, R., Shlens, J., Cubuk, E. D. & Gilmer, J. A Fourier Perspective on Model Robustness in Computer Vision. in Advances in Neural Information Processing Systems vol. 32 (Curran Associates, Inc., 2019). ](https://proceedings.neurips.cc/paper/2019/file/b05b57f6add810d3b7490866d74c0053-Paper.pdf)
+
+Please note that part of the code might exceed the free resources provided by colab,
+so this version was run using kaggle. Some code outputs may not be rendered.
